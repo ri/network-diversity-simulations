@@ -8,7 +8,7 @@ In order to embed your own simulated diversity network graph, you just need to c
 
   **data-nodes** Number of nodes in the network
 
-  **data-perc-follow** Percentage of red nodes followed
+  **data-perc-follow** Percentage of red nodes followed (out of 100)
 
   **data-num-follow** Number of other nodes each individual follows
 
